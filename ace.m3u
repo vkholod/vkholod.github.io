@@ -1,0 +1,3 @@
+#EXTM3U cache=5000
+#EXTINF:0,TorrentStream
+http://192.168.1.101:8902
